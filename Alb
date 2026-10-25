@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ALBANIA STATE ROLEPLAY</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#101116;color:white;font-family:Arial,sans-serif}
+header{background:#1a1b22;padding:24px 15px;text-align:center;border-bottom:3px solid #d62828}
+h1{color:#ff3434;font-size:30px}
+nav a{color:white;margin:8px;text-decoration:none}
+.hero{text-align:center;padding:65px 18px;background:linear-gradient(135deg,#292b33,#111)}
+.hero h2{font-size:28px}
+.btn{display:inline-block;background:#d62828;color:white;padding:13px 20px;border-radius:7px;text-decoration:none;margin:8px}
+section{padding:25px 18px;max-width:800px;margin:auto}
+.card{background:#202129;padding:20px;border-radius:10px;margin:15px 0}
+footer{text-align:center;padding:25px;background:#1a1b22;color:#bbb}
+</style>
+</head>
+<body>
+<header>
+<h1>ALBANIA STATE ROLEPLAY</h1>
+<nav>
+<a href="#home">Kryefaqja</a>
+<a href="#rregullat">Rregullat</a>
+<a href="#serveri">Serveri</a>
+</nav>
+</header>
+<div class="hero" id="home">
+<h2>BOTA JOTE ROLEPLAY!</h2>
+<p>Mirë se vini në ALBANIA STATE ROLEPLAY</p>
+<p>Ndërto historinë tënde në San Andreas.</p>
+<a class="btn" href="#serveri">LIDHU ME SERVERIN</a>
+<a class="btn" href="#rregullat">RREGULLAT</a>
+</div>
+<section id="serveri">
+<h2>Informacionet e serverit</h2>
+<div class="card">
+<p><b>Emri:</b> ALBANIA STATE ROLEPLAY</p>
+<p><b>IP:</b> Vendos IP-në e serverit këtu</p>
+<p><b>Discord:</b> Vendos linkun e Discord-it këtu</p>
+</div>
+</section>
+<section id="rregullat">
+<h2>Rregullat e komunitetit</h2>
+<div class="card">
+<p>• Respekto të gjithë lojtarët.</p>
+<p>• Ndalohet përdorimi i cheat-eve.</p>
+<p>• Respekto rregullat Roleplay.</p>
+<p>• Dëgjo udhëzimet e stafit.</p>
+</div>
+</section>
+<footer>© 2026 ALBANIA STATE ROLEPLAY</footer>
+</body>
+</html>
